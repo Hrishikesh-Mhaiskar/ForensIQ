@@ -19,10 +19,14 @@ None of the images depict real crime scenes, real victims, or actual criminal in
 
 ## Demo
 
+### 📹 Video Demo
+[▶ Watch the full demo on Google Drive](https://drive.google.com/file/d/1oH6GWEnOLH5tTf9WFdSo_0zl_m6Qqt84/view?usp=sharing)
+
+---
+
 <!-- Replace the paths below with your actual image files -->
 ![Annotated Output 1](img5_annotated.jpg)
 ![Annotated Output 2](recreation_img4_annotated.jpg)
-
 ---
 
 ## How It Works
