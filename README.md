@@ -9,9 +9,9 @@ An AI-powered forensic evidence detection system that analyzes crime scene image
 > Add your inference/output images here. Example:
 
 <!-- Replace the paths below with your actual image files -->
-[Annotated Output 1](img4_annotated.jpg)
-[Annotated Output 2](img5_annotated.jpg)
-[Annotated Output 3](recreation_img4_annotated.jpg)
+![Annotated Output 1](img4_annotated.jpg)
+![Annotated Output 2](img5_annotated.jpg)
+![Annotated Output 3](recreation_img4_annotated.jpg)
 
 ---
 
