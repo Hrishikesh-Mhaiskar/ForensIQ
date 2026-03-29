@@ -1,0 +1,57 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+env/
+
+# ── Model weights (large binary files) ───────────────────────────────────────
+*.pt
+*.pth
+*.weights
+*.onnx
+mobileclip_blt.tcs
+backend/mobileclip_blt.ts
+
+# ── Runtime artifacts ─────────────────────────────────────────────────────────
+backend/uploads/
+backend/annotated/
+
+# ── Node.js ───────────────────────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ── Frontend build output ─────────────────────────────────────────────────────
+crime-scene-app/dist/
+crime-scene-app/dist-ssr/
+crime-scene-app/*.local
+
+# ── OS ────────────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.sw?
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+logs/
+*.log
+
+# ── Temporary files ──────────────────────────────────────────────────────────
+*.tmp
+*.bak
