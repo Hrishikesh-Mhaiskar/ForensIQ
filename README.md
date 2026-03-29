@@ -215,4 +215,4 @@ The frontend will be available at `http://localhost:5173`.
 
 - Model weights (`yoloe-v8l-seg.pt`, ~1.3 GB) are excluded from the repo. Download using the `wget` command above.
 - Uploaded and annotated images are stored locally in `backend/uploads/` and `backend/annotated/` and are excluded from git.
-- This project was developed as a mini-project for **BCSE301L — Software Engineering** at **VIT Vellore** by Hrishikesh Mhaiskar (23BCE0455), Anupriya Singh (23BCE0652), and Hrithik Sharma (23BCE0451).
+- This project was developed as a mini-project for **BCSE301L — Software Engineering** at **VIT Vellore** by Hrishikesh Mhaiskar, Anupriya Singh, and Hrithik Sharma.
